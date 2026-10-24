@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Hi, I'm Seyed Matin Izanloo
 
-<!--
-**matinkingnet/matinkingnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer · AI Enthusiast
 
-Here are some ideas to get you started:
+I'm a Backend Developer passionate about building reliable, scalable, and maintainable applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm also deeply interested in **Artificial Intelligence** and continuously exploring new technologies and ideas in the AI ecosystem.
+
+---
+
+## 🧑‍💻 About Me
+
+- 💻 Backend Developer
+- 🤖 Interested in Artificial Intelligence
+- 🚀 Passionate about building scalable applications
+- 🧠 Always learning and exploring new technologies
+- 🛠️ Interested in software architecture and backend development
+
+---
+
+## 🛠️ Technical Skills
+
+### Backend
+
+`PHP` · `Laravel` · `Node.js` · `Express.js`
+
+### Full-Stack
+
+`MERN Stack`
+
+`MongoDB` · `Express.js` · `React` · `Node.js`
+
+### Database & Infrastructure
+
+`MySQL` · `MongoDB` · `Redis`
+
+### Tools
+
+`Git` · `GitHub`
+
+---
+
+## 🤖 Interests
+
+- Artificial Intelligence
+- Backend Development
+- Software Architecture
+- Scalable Systems
+- Web Technologies
+- Problem Solving
+
+---
+
+## 🚀 Currently Learning & Exploring
+
+I'm currently focusing on improving my backend development skills while exploring the world of **Artificial Intelligence** and modern software technologies.
+
+My goal is to build software that is not only functional, but also **scalable, maintainable, and efficient**.
+
+---
+
+## 📫 Let's Connect
+
+💬 **Telegram:** @matiniza
+
+---
+
+### ⚡ Code. Learn. Build. Repeat.
